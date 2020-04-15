@@ -1,0 +1,19 @@
+{
+  "name": "zic_module",
+  "version": "1.0.0",
+  "description": "Zicru test module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jovanrt2916/zic_module.git"
+  },
+  "author": "Zicru",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jovanrt2916/zic_module/issues"
+  },
+  "homepage": "https://github.com/jovanrt2916/zic_module#readme"
+}
